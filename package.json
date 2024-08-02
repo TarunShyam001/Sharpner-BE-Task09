@@ -1,0 +1,12 @@
+{
+  "name": "sharpner-be-task09",
+  "version": "1.0.0",
+  "description": "Configuration of debugging and auto-reloading",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tarun Shyam ",
+  "license": "ISC"
+}
